@@ -1,0 +1,11 @@
+Name serverName
+Password aPassword
+Welcome "Message"
+Port 27015
+MaxPlayers 4
+PvE
+Map Germany
+Mode Normal
+Perspective Both
+Owner yourSteamID
+Chatrate 1
